@@ -36,12 +36,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Prz-Happy)](https://git.io/streak-stats)
 
 ## 🌟 重点项目
+
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=600&lines=Hello%2C%20World!;Talk%20is%20cheap.%20Show%20me%20the%20code!;It%20works%20on%20my%20machine!&size=27" alt="Typing SVG" />
   </a>
-
 </h3>
+
 | 项目名称 | 技术栈 | 简介 |
 |---------|--------|------|
 | [项目1](项目链接) | Vue3 + TS + Pinia | 「xxx 管理系统」：实现了 xxx 功能，适配移动端/PC 端 |
