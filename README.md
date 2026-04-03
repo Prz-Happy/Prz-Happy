@@ -1,27 +1,24 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate developer from Country</h3>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=NAME&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%E5%90%BE%E5%8D%B3%E6%98%AF%E6%B1%9D%EF%BC%8C%E6%B1%9D%E5%8D%B3%E6%98%AF%E5%90%BE&descAlignY=55&descAlign=60"
+        width="100%" />
+</div>
 
-- 🔭 I'm currently working on [Project Name]
-- 🌱 I'm currently learning **Technology Stack**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Your Expertise**
-- 📫 How to reach me: **your.email@example.com**
+## 👋 你好，我是XXX ！
+**个人定位**
 
-<!-- GitHub统计卡片 -->
-<p align="center">
+邮箱: [XXX.com](mailto:XXXX.com) &nbsp;&nbsp;|&nbsp;&nbsp; 
 
-
+<p align="left">
+    <img src="https://img.shields.io/badge/SwiftUI-d91c25?style=flat-square&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-d91c25?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-d91c25?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-d91c25?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
-<!-- 连续贡献统计 -->
-<p align="center">
+## 👨‍💻 关于我 
 
-</p>
+这里可以写一段简短的自我介绍，比如你正在学习什么，或者你在寻找什么样的合作机会。
 
-### 🛠️ Tech Stack
-
-**前端技术:**
-
-**后端技术:**
-
-### 🌐 Connect with Me
