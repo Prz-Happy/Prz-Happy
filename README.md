@@ -28,7 +28,8 @@
 - ⚡ 趣味：[个性化标签，如「Steam 游戏爱好者、摄影、徒步」]
 
 ## 📊 我的 GitHub 数据
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prz-Happy)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prz-Happy)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## 🌟 重点项目
