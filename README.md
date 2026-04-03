@@ -29,10 +29,7 @@
 
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
-![PRZ's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=HappyHappyPRZ&show_icons=true&count_private=true&theme=gotham)
-
-
-
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyHappyPRZ&show_icons=true&theme=tokyonight)
 
 ## 🌟 重点项目
 | 项目名称 | 技术栈 | 简介 |
