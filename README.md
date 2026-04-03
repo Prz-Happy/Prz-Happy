@@ -29,10 +29,9 @@
 
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
-![描述信息](url)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prz-Happy&show_icons=true&theme=tokyonight)
-![Visitor Count](https://profile-counter.glitch.me/Prz-Happy/count.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prz-Happy&layout=compact&theme=tokyonight)
+![PRZ's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Prz-Happy&show_icons=true&count_private=true&theme=gotham)
+
+
 
 
 ## 🌟 重点项目
