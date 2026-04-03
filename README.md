@@ -30,7 +30,7 @@
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prz-Happy&show_icons=true&theme=tokyonight)
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Prz-Happy/count.svg)
 
 
 ## 🌟 重点项目
