@@ -29,8 +29,13 @@
 
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyHappyPRZ&show_icons=true&theme=tokyonight)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HappyHappyPRZ&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyHappyPRZ&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
+</div>
+————————————————
+版权声明：本文为CSDN博主「菠萝_」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/m0_62336865/article/details/155892376
 ## 🌟 重点项目
 | 项目名称 | 技术栈 | 简介 |
 |---------|--------|------|
