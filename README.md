@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [你的名字]
+# 👋 Hi, I'm [PRZ]
 <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
 💻 Full Stack Developer | 🚀 Vue/React/SpringBoot 实践者 | 🎮 游戏爱好者
 
@@ -43,5 +43,5 @@
 ## 🎨 趣味数据
 <!-- GitHub 贡献图 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prz-Happy&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
 </div>
