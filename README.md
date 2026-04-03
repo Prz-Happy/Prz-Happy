@@ -29,7 +29,7 @@
 
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
-![PRZ's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Prz-Happy&show_icons=true&count_private=true&theme=gotham)
+![PRZ's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=HappyHappyPRZ&show_icons=true&count_private=true&theme=gotham)
 
 
 
