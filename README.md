@@ -30,7 +30,7 @@
 ## 📊 我的 GitHub 数据
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Prz-Happy)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?user=Prz-Happy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prz-Happy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
