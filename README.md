@@ -28,7 +28,9 @@
 - ⚡ 趣味：[个性化标签，如「Steam 游戏爱好者、摄影、徒步」]
 
 ## 📊 我的 GitHub 数据
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prz-Happy)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Prz-Happy)](https://git.io/streak-stats)
+
 
 
 
