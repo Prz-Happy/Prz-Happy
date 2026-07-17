@@ -27,12 +27,6 @@
 
 </div>
 
-<br/>
-
-> 从 `malloc` 的内存布局写到 AI Agent 的自主决策——关注每一层抽象的真实代价。
-
-<br/>
-
 ## 正在做
 
 **CSAPP**　4 个 Lab：Data / Bomb / Shell / Malloc  
