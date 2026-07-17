@@ -20,13 +20,24 @@
 
 </div>
 
+<br/>
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Prz-Happy.Prz-Happy&left_text=Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Prz-Happy&style=flat-square&color=blue)
+
+</div>
+
+<br/>
+
+> 从 `malloc` 的内存布局写到 AI Agent 的自主决策——关注每一层抽象的真实代价。
+
+<br/>
+
 ## 正在做
 
-> 大一暑假 · 第 0 周
-
-- **CSAPP**　4 个 Lab：Data Lab / Bomb Lab / Shell Lab / Malloc Lab
-- **SOC**　AI 学习助手 v0.1.0——FastAPI + Claude Agent SDK + Chroma，Docker 化部署
-- **LeetCode**　刷题
+**CSAPP**　4 个 Lab：Data / Bomb / Shell / Malloc  
+**SOC**　AI 学习助手 v0.1.0——FastAPI + Claude Agent SDK + Chroma  
+**LeetCode**　刷题  
 
 <br/>
 
@@ -42,8 +53,15 @@
 <div align="center">
 
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Prz-Happy&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prz-Happy&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+![Contribution](https://ghchart.rshah.org/Prz-Happy)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>📬 `[your-email]`　·　Last updated 2026-07-17</sub>
+</div>
 
 </div>
 
