@@ -12,100 +12,41 @@
 
 </div>
 
-<br/>
-
-## About · 关于
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-......
-
-</td>
-<td width="50%" valign="top">
-
-......
-
-CSAPP · Systems Programming · AI Full-Stack.
-
-Looking for internship — Summer 2027.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Tech Stack · 技术栈
-
-**Languages**
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Backend & Tools**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-
-**AI / Agent**
-
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1a1b27?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 <br/>
 
-## Projects · 项目
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[mikuOJ](https://github.com/NJUPT-SAST-CXX/mikuOJ)** — OJ 评测系统，校科协 C++ 组团队协作 `C++`
 
-
-### [mikuOJ](https://github.com/NJUPT-SAST-CXX/mikuOJ)
-
-OJ 评测系统 · 团队协作
-
-`C++`
-
-</td>
-<td width="50%" valign="top">
-
-### [Przs-C-WoC-Higher](https://github.com/Prz-Happy/Przs-C-WoC-Higher)
-
-独立开发
-
-`C`
-
-</td>
-</tr>
-</table>
+**[Przs-C-WoC-Higher](https://github.com/Prz-Happy/Przs-C-WoC-Higher)** — 独立开发 `C`
 
 <br/>
 
 <div align="center">
 
 
-## Now · 当前
+## Now
 
-**CSAPP**　Data Lab / Bomb Lab / Shell Lab / Malloc Lab  
-**SOC**　AI 学习助手 v0.1.0 · FastAPI + Claude Agent SDK + Chroma  
-**LeetCode**　每日 1 题
+CSAPP · 4 Labs &nbsp;|&nbsp; SOC AI 学习助手 v0.1.0 &nbsp;|&nbsp; LeetCode 每日 1 题
 
 <br/>
 
-<img width="98%" src="https://ghchart.rshah.org/Prz-Happy" alt="Contribution Chart" />
+<img width="98%" src="https://ghchart.rshah.org/Prz-Happy" />
 
 </div>
 
 ---
 
-<div align="center">
-  <sub>Last updated 2026-07-17</sub>
-</div>
-
+<div align="center"><sub>Last updated 2026-07-17</sub></div>
