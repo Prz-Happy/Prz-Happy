@@ -63,7 +63,4 @@
 
 ---
 
-<div align="center">
-  <sub>📬 `[your-email]`　·　Last updated 2026-07-17</sub>
-</div>
 
